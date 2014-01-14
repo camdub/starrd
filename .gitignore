@@ -1,0 +1,6 @@
+.DS_Store
+*.py[cod]
+flaskr.py
+flaskr
+starrd.db
+.webassets-cache/
